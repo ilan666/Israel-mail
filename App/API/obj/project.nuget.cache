@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzSvrAsNta54NE9cgSFrqtzUQa3zD071fmzL96d4XlTLnjNJBfNhtb6NGxap3JdJtH9FtIKBpEPqrWZlXb8BEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omnis\\OneDrive\\Рабочий стол\\Israel mail\\Israel-mail\\App\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omnis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Omnis\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Omnis\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Omnis\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Omnis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Omnis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
